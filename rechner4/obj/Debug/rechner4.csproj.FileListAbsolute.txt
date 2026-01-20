@@ -1,0 +1,11 @@
+C:\Users\kilic\source\repos\rechner4\rechner4\bin\Debug\rechner4.exe.config
+C:\Users\kilic\source\repos\rechner4\rechner4\bin\Debug\rechner4.exe
+C:\Users\kilic\source\repos\rechner4\rechner4\bin\Debug\rechner4.pdb
+C:\Users\kilic\source\repos\rechner4\rechner4\obj\Debug\rechner4.csproj.AssemblyReference.cache
+C:\Users\kilic\source\repos\rechner4\rechner4\obj\Debug\rechner4.Form1.resources
+C:\Users\kilic\source\repos\rechner4\rechner4\obj\Debug\rechner4.Properties.Resources.resources
+C:\Users\kilic\source\repos\rechner4\rechner4\obj\Debug\rechner4.csproj.GenerateResource.cache
+C:\Users\kilic\source\repos\rechner4\rechner4\obj\Debug\rechner4.csproj.CoreCompileInputs.cache
+C:\Users\kilic\source\repos\rechner4\rechner4\obj\Debug\rechner4.exe
+C:\Users\kilic\source\repos\rechner4\rechner4\obj\Debug\rechner4.pdb
+C:\Users\kilic\source\repos\rechner4\rechner4\obj\Debug\rechner4.exe.config
