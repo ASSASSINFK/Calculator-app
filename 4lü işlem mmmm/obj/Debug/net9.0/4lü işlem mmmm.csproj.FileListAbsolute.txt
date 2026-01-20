@@ -1,0 +1,14 @@
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\4lü işlem mmmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\4lü işlem mmmm.AssemblyInfoInputs.cache
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\4lü işlem mmmm.AssemblyInfo.cs
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\4lü işlem mmmm.csproj.CoreCompileInputs.cache
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\bin\Debug\net9.0\4lü işlem mmmm.exe
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\bin\Debug\net9.0\4lü işlem mmmm.deps.json
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\bin\Debug\net9.0\4lü işlem mmmm.runtimeconfig.json
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\bin\Debug\net9.0\4lü işlem mmmm.dll
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\bin\Debug\net9.0\4lü işlem mmmm.pdb
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\4lü işlem mmmm.dll
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\refint\4lü işlem mmmm.dll
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\4lü işlem mmmm.pdb
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\4lü işlem mmmm.genruntimeconfig.cache
+C:\Users\kilic\source\repos\4lü işlem mmmm\4lü işlem mmmm\obj\Debug\net9.0\ref\4lü işlem mmmm.dll
